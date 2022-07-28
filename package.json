@@ -1,0 +1,24 @@
+{
+  "name": "learn-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanwydxf/learn-fe.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanwydxf/learn-fe/issues"
+  },
+  "homepage": "https://github.com/yanwydxf/learn-fe#readme",
+  "devDependencies": {
+    "@vuepress/plugin-search": "^1.9.7",
+    "vuepress": "^1.9.7"
+  }
+}
